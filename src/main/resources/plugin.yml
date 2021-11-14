@@ -1,0 +1,8 @@
+main: "com.antoniorg.main.MySpigotPlugin"
+name: "MySpigotPlugin"
+version: "1.0"
+api: ""
+commands:
+   tempfly:
+      usage: "Tempfly made by SvipersMC, usage: \n /tempfly player seconds \n /tempfly player stop"
+      description: "Gives fly to a specified player"
